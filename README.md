@@ -37,7 +37,7 @@ Install requests if needed:
 
 ```bash
 python -m pip install requests
-export MOCKAROO_API_KEY="<insert the API Key from the classroom>"
+export MOCKAROO_API_KEY="cf7bbbd0":
 ```
 
 Create `soc_case_builder.py`:
